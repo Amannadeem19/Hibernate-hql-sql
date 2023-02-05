@@ -21,5 +21,5 @@
     
   5. Pagination:
       
-      Used : SetFirstResult() and setMaxResult(). Helpful how many results should be shown in a page.
+      Used : SetFirstResult() and setMaxResult(). Helpful for fetching ,how many results should be shown in a page.
 
